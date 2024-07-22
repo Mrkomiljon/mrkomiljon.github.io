@@ -115,9 +115,9 @@ permalink: /
         <div class="title">ML Software Engineer</div>
         <div class="social-links">
             <a href="https://youtube.com/codeuz" target="_blank"><i class="fab fa-youtube"></i></a>
-            <a href="https://github.com/yakhyo" target="_blank"><i class="fab fa-github"></i></a>
-            <a href="https://linkedin.com//in/y-valikhujaev" target="_blank"><i class="fab fa-linkedin"></i></a>
-            <a href="https://t.me/valikhujaev" target="_blank"><i class="fab fa-telegram"></i></a>
+            <a href="https://github.com/Mrkomiljon" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="https://linkedin.com//in/komiljon-mukhammadiev" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://t.me/Komil_m" target="_blank"><i class="fab fa-telegram"></i></a>
         </div>
     </div>
     <div class="description">

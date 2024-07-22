@@ -9,8 +9,8 @@
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/yakhyo/yakhyo.github.io.git
-   cd yakhyo.github.io
+   git clone https://github.com/Mrkomiljon/mrkomiljon.github.io.git
+   cd mrkomiljon.github.io
    ```
 
 2. **Install Jekyll and Bundler Gems**
