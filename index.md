@@ -111,7 +111,7 @@ permalink: /
 <div class="landing-page">
     <img src="{{ site.baseurl }}/assets/images/logo.webp" alt="Your Photo" class="profile-photo">
     <div class="profile-info">
-        <div class="name">Yakhyo Valikhujaev</div>
+        <div class="name">Mukhammadiev Komiljon</div>
         <div class="title">ML Software Engineer</div>
         <div class="social-links">
             <a href="https://youtube.com/codeuz" target="_blank"><i class="fab fa-youtube"></i></a>
