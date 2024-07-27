@@ -61,18 +61,18 @@ I am a dedicated ML/DL/CV engineer with 2+ years of industry and 3+ years of aca
 **CNU AI & A Lab** &#124; **Sep 2020 - Fev 2023**
 
 - **Uzbek Sign Language Detection System**:
-    - ·  Developed a real-time system using Mediapipe and OpenCV to recognize Uzbek sign language with 98% accuracy.
-    - ·  Translated hand gestures into text, providing an effective communication tool for the hearing impaired.
-    - ·  Technologies: Sign Language Recognition, Computer Vision, Mediapipe, OpenCV, Python.
-    - ·  [Project Implementation](https://github.com/Mrkomiljon/uzbek-sign-language) 
+    -   Developed a real-time system using Mediapipe and OpenCV to recognize Uzbek sign language with 98% accuracy.
+    -   Translated hand gestures into text, providing an effective communication tool for the hearing impaired.
+    -   Technologies: Sign Language Recognition, Computer Vision, Mediapipe, OpenCV, Python.
+    -   [Project Implementation](https://github.com/Mrkomiljon/uzbek-sign-language) 
 - **License Plate Detection System**:
-    - ·  Implemented a high-precision license plate detection system using the YOLOv7 model and CCPD dataset.
-    - ·  Achieved robust performance in diverse environments, enhancing automated vehicle monitoring and access control systems.
-    - ·  Technologies: Object Detection, YOLOv7, Image Processing, Python.
+    -   Implemented a high-precision license plate detection system using the YOLOv7 model and CCPD dataset.
+    -   Achieved robust performance in diverse environments, enhancing automated vehicle monitoring and access control systems.
+    -   Technologies: Object Detection, YOLOv7, Image Processing, Python.
 - **Early Lung Cancer Detection Model**:
-    - ·  Built and optimized a classification and segmentation model to detect early-stage lung cancer, improving diagnostic accuracy by 20%.
-    - ·  Technologies: Medical Imaging, Machine Learning, Image Segmentation, Python, TensorFlow.
-Please visit https://github.com/Mrkomiljon to see more implementations of different ML models.
+    -   Built and optimized a classification and segmentation model to detect early-stage lung cancer, improving diagnostic accuracy by 20%.
+    -   Technologies: Medical Imaging, Machine Learning, Image Segmentation, Python, TensorFlow.
+Please visit [https://github.com/Mrkomiljon](https://github.com/Mrkomiljon) to see more implementations of different ML models.
 
 
 ## Education
@@ -83,7 +83,7 @@ Please visit https://github.com/Mrkomiljon to see more implementations of differ
 | Tashkent University of Information Technologies | BSc in Computer Engineering; GPA(%): 85/100                               | Sep 2014 - Jun 2018 |
 
 ## Publications
- “An efficient stacking ensemble learning method for customer [churn prediction](https://github.com/Mrkomiljon/Churn-prediction).”, (2023)
+ “An efficient stacking ensemble learning method for customer [churn prediction](https://github.com/Mrkomiljon/Churn-prediction)”, (2023)
 
 
 ## Languages
