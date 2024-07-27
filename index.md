@@ -121,8 +121,8 @@ permalink: /
         </div>
     </div>
     <div class="description">
-        Exploring Life Through the Lens of a Computer Scientist: AI, Tech, and Beyond.
-                           --better than yesterday--
+        Exploring Life Through the Lens of a Computer Scientist: AI, Tech, and Beyond. 
+        
     </div>
     <div class="buttons">
         <a href="{{ site.baseurl }}/blog" class="read-blog">Read Blog</a>
