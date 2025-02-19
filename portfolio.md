@@ -115,12 +115,19 @@ button.active {
         </a>
         <p>This repository provides code and instructions for performing license plate detection using YOLOv5 with ONNX Runtime. It supports inference on images, videos, and webcam feeds, utilizing GPU acceleration for efficient processing. The project includes Python scripts for easy deployment and integration into various applications. <a href="https://github.com/Mrkomiljon/License-Plate-Detection_ONNX" target="_blank">Learn more on GitHub</a>.</p>
     </div>
-    <div class="project" data-tags="sign-language">
+    <div class="project" data-tags="classification">
         <h3>Uzbek Sign Language Recognition</h3>
         <a href="https://github.com/Mrkomiljon/uzbek-sign-language" target="_blank">
             <img src="https://opengraph.githubassets.com/1/Mrkomiljon/uzbek-sign-language" alt="Uzbek Sign Language Recognition GitHub Preview">
         </a>
         <p>This project focuses on recognizing Uzbek Sign Language (USL), the primary language for deaf and hard of hearing individuals in Uzbekistan. The system aims to facilitate communication by translating USL gestures into text, benefiting both the deaf community and those seeking to communicate with them. The dataset comprises images representing various USL gestures, and the model is trained to accurately classify these signs. <a href="https://github.com/Mrkomiljon/uzbek-sign-language" target="_blank">Learn more on GitHub</a>.</p>
+    </div>
+    <div class="project" data-tags="face">
+        <h3>Gaze Emotion Recognition</h3>
+        <a href="https://github.com/Mrkomiljon/Gaze_emotion" target="_blank">
+            <img src="https://opengraph.githubassets.com/1/Mrkomiljon/Gaze_emotion" alt="Gaze Emotion Recognition GitHub Preview">
+        </a>
+        <p>This project integrates gaze tracking and facial emotion estimation to analyze user emotions in real-time. Utilizing OpenCV for face detection and DeepFace for emotion recognition, it processes webcam input to display emotion labels on detected faces. Additionally, it includes an audio-to-text feature, enhancing the multimodal analysis capabilities. <a href="https://github.com/Mrkomiljon/Gaze_emotion" target="_blank">Learn more on GitHub</a>.</p>
     </div>
     <div class="project" data-tags="misc">
         <h3>Additional Projects</h3>
