@@ -108,6 +108,20 @@ button.active {
         </a>
         <p>This repository implements face detection using the SCRFD model, a fast and lightweight solution optimized for edge devices. The project employs the ONNX format for the model and leverages OpenCV for processing images and videos, enabling efficient and accurate face detection across various media formats. <a href="https://github.com/Mrkomiljon/face_detection_onnx" target="_blank">Learn more on GitHub</a>.</p>
     </div>
+    <div class="project" data-tags="detection">
+        <h3>License-Plate-Detection_ONNX</h3>
+        <a href="https://github.com/Mrkomiljon/License-Plate-Detection_ONNX" target="_blank">
+            <img src="https://opengraph.githubassets.com/1/Mrkomiljon/License-Plate-Detection_ONNX" alt="License-Plate-Detection_ONNX GitHub Preview">
+        </a>
+        <p>This repository provides code and instructions for performing license plate detection using YOLOv5 with ONNX Runtime. It supports inference on images, videos, and webcam feeds, utilizing GPU acceleration for efficient processing. The project includes Python scripts for easy deployment and integration into various applications. <a href="https://github.com/Mrkomiljon/License-Plate-Detection_ONNX" target="_blank">Learn more on GitHub</a>.</p>
+    </div>
+    <div class="project" data-tags="sign-language">
+        <h3>Uzbek Sign Language Recognition</h3>
+        <a href="https://github.com/Mrkomiljon/uzbek-sign-language" target="_blank">
+            <img src="https://opengraph.githubassets.com/1/Mrkomiljon/uzbek-sign-language" alt="Uzbek Sign Language Recognition GitHub Preview">
+        </a>
+        <p>This project focuses on recognizing Uzbek Sign Language (USL), the primary language for deaf and hard of hearing individuals in Uzbekistan. The system aims to facilitate communication by translating USL gestures into text, benefiting both the deaf community and those seeking to communicate with them. The dataset comprises images representing various USL gestures, and the model is trained to accurately classify these signs. <a href="https://github.com/Mrkomiljon/uzbek-sign-language" target="_blank">Learn more on GitHub</a>.</p>
+    </div>
     <div class="project" data-tags="misc">
         <h3>Additional Projects</h3>
         <p>Explore more of my work on <a href="https://github.com/Mrkomiljon" target="_blank">GitHub</a>.</p>
