@@ -94,6 +94,13 @@ button.active {
         </a>
         <p>DeepVoiceGuard is a robust solution for detecting spoofed audio in Automatic Speaker Verification (ASV) systems. This project utilizes the RawNet2 model, trained on the ASVspoof 2019 dataset, and deploys the trained model using FastAPI for real-time inference. <a href="https://github.com/Mrkomiljon/DeepVoiceGuard" target="_blank">Learn more on GitHub</a>.</p>
     </div>
+    <div class="project" data-tags="audio">
+        <h3>VoiceGUARD2</h3>
+        <a href="https://github.com/Mrkomiljon/VoiceGUARD2" target="_blank">
+            <img src="https://opengraph.githubassets.com/1/Mrkomiljon/VoiceGUARD2" alt="VoiceGUARD2 GitHub Preview">
+        </a>
+        <p>VoiceGUARD2 offers an end-to-end solution for classifying audio as human or AI-generated using the Wav2Vec2 model. It supports multi-class classification, distinguishing between real voices and synthetic audio produced by models such as DiffWave and WaveNet... The project encompasses dataset preparation, preprocessing, fine-tuning, inference, and API deployment for real-time predictions via FastAPI. <a href="https://github.com/Mrkomiljon/VoiceGUARD2" target="_blank">Learn more on GitHub</a>.</p>
+    </div>
     <div class="project" data-tags="misc">
         <h3>Additional Projects</h3>
         <p>Explore more of my work on <a href="https://github.com/Mrkomiljon" target="_blank">GitHub</a>.</p>
