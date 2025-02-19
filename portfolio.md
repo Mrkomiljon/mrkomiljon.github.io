@@ -101,6 +101,13 @@ button.active {
         </a>
         <p>VoiceGUARD2 offers an end-to-end solution for classifying audio as human or AI-generated using the Wav2Vec2 model. It supports multi-class classification, distinguishing between real voices and synthetic audio produced by models such as DiffWave and WaveNet... The project encompasses dataset preparation, preprocessing, fine-tuning, inference, and API deployment for real-time predictions via FastAPI. <a href="https://github.com/Mrkomiljon/VoiceGUARD2" target="_blank">Learn more on GitHub</a>.</p>
     </div>
+    <div class="project" data-tags="detection">
+        <h3>face_detection_onnx</h3>
+        <a href="https://github.com/Mrkomiljon/face_detection_onnx" target="_blank">
+            <img src="https://opengraph.githubassets.com/1/Mrkomiljon/face_detection_onnx" alt="face_detection_onnx GitHub Preview">
+        </a>
+        <p>This repository implements face detection using the SCRFD model, a fast and lightweight solution optimized for edge devices. The project employs the ONNX format for the model and leverages OpenCV for processing images and videos, enabling efficient and accurate face detection across various media formats. <a href="https://github.com/Mrkomiljon/face_detection_onnx" target="_blank">Learn more on GitHub</a>.</p>
+    </div>
     <div class="project" data-tags="misc">
         <h3>Additional Projects</h3>
         <p>Explore more of my work on <a href="https://github.com/Mrkomiljon" target="_blank">GitHub</a>.</p>
