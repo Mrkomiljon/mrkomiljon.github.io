@@ -94,7 +94,6 @@ button.active {
         </a>
         <p>DeepVoiceGuard is a robust solution for detecting spoofed audio in Automatic Speaker Verification (ASV) systems. This project utilizes the RawNet2 model, trained on the ASVspoof 2019 dataset, and deploys the trained model using FastAPI for real-time inference. <a href="https://github.com/Mrkomiljon/DeepVoiceGuard" target="_blank">Learn more on GitHub</a>.</p>
     </div>
-</div>
     <div class="project" data-tags="misc">
         <h3>Additional Projects</h3>
         <p>Explore more of my work on <a href="https://github.com/Mrkomiljon" target="_blank">GitHub</a>.</p>
