@@ -3,4 +3,115 @@ layout: page
 title: Portfolio
 permalink: /portfolio/
 ---
-<p>Soon...</p>
+
+<style>
+.projects-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+}
+.project {
+    flex: 1 1 calc(50% - 40px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    background-color: #fff;
+}
+.project img {
+    width: 100%;
+    border-radius: 5px;
+}
+@media (max-width: 768px) {
+    .project {
+        flex: 1 1 100%;
+    }
+}
+button {
+    margin: 5px;
+    padding: 10px;
+    border: none;
+    background-color: #007BFF;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button.active {
+    background-color: #0056b3;
+}
+</style>
+
+<div>
+    <button class="filter-button" data-filter="all">All</button>
+    <button class="filter-button" data-filter="classification">Classification</button>
+    <button class="filter-button" data-filter="detection">Detection</button>
+    <button class="filter-button" data-filter="segmentation">Segmentation</button>
+    <button class="filter-button" data-filter="face">Face</button>
+</div>
+
+<div class="projects-container">
+    <div class="project" data-tags="detection">
+        <h3>Live Portrait Monitor</h3>
+        <a href="https://github.com/Mrkomiljon/Live_Portrait_Monitor" target="_blank">
+            <img src="https://opengraph.githubassets.com/1/Mrkomiljon/Live_Portrait_Monitor" alt="Live Portrait Monitor GitHub Preview">
+        </a>
+        <p>A deep learning-based application for animating portraits displayed on a monitor, leveraging advanced face reenactment techniques. <a href="https://github.com/Mrkomiljon/Live_Portrait_Monitor" target="_blank">Learn more on GitHub</a>.</p>
+    </div>
+    <div class="project" data-tags="detection">
+        <h3>Webcam Live Portrait</h3>
+        <a href="https://github.com/Mrkomiljon/Webcam_Live_Portrait" target="_blank">
+            <img src="https://opengraph.githubassets.com/1/Mrkomiljon/Webcam_Live_Portrait" alt="Webcam Live Portrait GitHub Preview">
+        </a>
+        <p>Real-time portrait animation using a webcam feed, utilizing deep learning-based face tracking and reenactment methods. <a href="https://github.com/Mrkomiljon/Webcam_Live_Portrait" target="_blank">Learn more on GitHub</a>.</p>
+    </div>
+    <div class="project" data-tags="classification">
+        <h3>VoiceGuard</h3>
+        <a href="https://github.com/Mrkomiljon/voiceguard" target="_blank">
+            <img src="https://opengraph.githubassets.com/1/Mrkomiljon/voiceguard" alt="VoiceGuard GitHub Preview">
+        </a>
+        <p>An AI-powered system designed to detect voice phishing in real time, ensuring enhanced security against fraudulent audio-based threats. <a href="https://github.com/Mrkomiljon/voiceguard" target="_blank">Learn more on GitHub</a>.</p>
+    </div>
+    <div class="project" data-tags="segmentation">
+        <h3>Face Segmentation</h3>
+        <a href="https://github.com/Mrkomiljon/face-segmentation_pytorch" target="_blank">
+            <img src="https://opengraph.githubassets.com/1/Mrkomiljon/face-segmentation_pytorch" alt="Face Segmentation GitHub Preview">
+        </a>
+        <p>Semantic segmentation of facial features using PyTorch, enabling applications in augmented reality, digital makeup, and face modification. <a href="https://github.com/Mrkomiljon/face-segmentation_pytorch" target="_blank">Learn more on GitHub</a>.</p>
+    </div>
+    <div class="project" data-tags="classification">
+        <h3>Deep-Live Monitor</h3>
+        <a href="https://github.com/Mrkomiljon/Deep-Live-Monitor" target="_blank">
+            <img src="https://opengraph.githubassets.com/1/Mrkomiljon/Deep-Live-Monitor" alt="Deep-Live Monitor GitHub Preview">
+        </a>
+        <p>A sophisticated deep learning system for animating images displayed on a monitor, leveraging advanced computer vision techniques. <a href="https://github.com/Mrkomiljon/Deep-Live-Monitor" target="_blank">Learn more on GitHub</a>.</p>
+    </div>
+    <div class="project" data-tags="misc">
+        <h3>Additional Projects</h3>
+        <p>Explore more of my work on <a href="https://github.com/Mrkomiljon" target="_blank">GitHub</a>.</p>
+    </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    const buttons = document.querySelectorAll('.filter-button');
+    const projects = document.querySelectorAll('.project');
+
+    buttons.forEach(button => {
+        button.addEventListener('click', () => {
+            buttons.forEach(btn => btn.classList.remove('active'));
+            button.classList.add('active');
+
+            const filter = button.getAttribute('data-filter');
+
+            projects.forEach(project => {
+                if (filter === 'all' || project.getAttribute('data-tags').includes(filter)) {
+                    project.style.display = 'block';
+                } else {
+                    project.style.display = 'none';
+                }
+            });
+        });
+    });
+});
+</script>
