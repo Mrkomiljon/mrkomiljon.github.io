@@ -30,9 +30,7 @@ I specialize in **model quantization (ONNX, TensorFlow Lite, TensorRT), optimiza
 - **Computer Vision & Image Processing:** Object Detection, Object Tracking, OCR, Image Restoration & Enhancement, Medical Imaging  
 - **Speech & NLP:** STT, Natural Language Processing, Large Language Models (LLMs), Vision-Language Models, Generative AI  
 - **AI Model Development & Optimization:** Model Quantization, Real-time AI Systems, DeepFake Detection, Clustering, Re-Identification  
-- **End-to-End AI Solutions:** Building Scalable AI Pipelines, Deployment Pipelines, GCP & Cloud AI Deployment 
-
-## Main Competencies
+- **End-to-End AI Solutions:** Building Scalable AI Pipelines, Deployment Pipelines, GCP & Cloud AI Model Deployment 
   
 ## Work Experience
 
