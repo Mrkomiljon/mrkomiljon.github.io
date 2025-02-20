@@ -8,23 +8,81 @@ permalink: /resume/
 
 ## About Me
 
-I am a dedicated ML/DL/CV engineer with 2+ years of industry and 3+ years of academic experience. I specialize in Deep-fake Lip Sync, object detection, segmentation, tracking, video recognition, and action classification. Skilled in deploying ML models on AWS and GCP, optimizing pipelines, and leveraging containerization for robust implementations. I thrive in cross-functional team environments, delivering innovative solutions that drive business growth and foster technological advancement.
+I am a dedicated **AI Developer** with **2+ years of industry** and **3+ years of academic experience** in machine learning, deep learning, NLP, and computer vision. My expertise includes **speech-to-text (STT), large language models (LLMs), DeepFake detection, and AI-generated content classification**. I have successfully built and deployed **real-time AI models** for **voice authentication, phishing detection, and AI-driven audio classification**.
+
+I specialize in **model quantization (ONNX, TensorFlow Lite, TensorRT), optimization, and scalable AI solutions** for mobile and server deployments. My work focuses on **multilingual speech recognition, AI-based security systems, and real-time inference acceleration**, ensuring efficient and high-performance AI applications.
+
+---
 
 ## Skills Summary
 
-- **Programming Languages:** Python, C/C++, Java.
-- **Database Management:** MySQL, PostgreSQL, PySpark.
-- **ML:** Numpy, Scikit-learn, PyTorch, PyTorch Lightning, Tensorflow, Keras, HuggingFace, Transformers.
-- **MLOps:** Docker-compose, Dockerization, Kubeflow, MLFlow, Flask, Fast API, gRPC, TorchServe, Triton, TensorRT.
-- **Development Tools:** Git/Github, Docker, CI & CD.
-- **Cloud:** AWS EC2, GCP.
-- **Main Competencies:** Object Detection, Object Tracking, Clustering, Re-Identification, Medical Imaging, Image Restoration & Enhancement, DeepFakes, Generative Models, Vision-Language Models, Large-Language Models, Natural Language Processing, Building End-to-End Pipelines, Deployment Pipelines, GCP Deployment.
+### **Programming Languages**
+- Python, C/C++, Java
+
+### **Database Management**
+- MySQL, MongoDB, PostgreSQL, PySpark
+
+### **ML & AI Frameworks**
+- PyTorch, TensorFlow, HuggingFace Transformers, Scikit-learn, PyTorch Lightning
+
+### **Speech & NLP**
+- Whisper, KoBERT, Transformers, Speech-to-Text (STT), Large Language Models (LLMs)
+
+### **MLOps & Optimization**
+- Docker, Kubernetes, MLFlow, FastAPI, TorchServe, TensorRT, ONNX, TensorFlow Lite
+
+### **Development Tools**
+- Git/GitHub, CI/CD, Docker-compose
+
+### **Cloud & Deployment**
+- AWS EC2, GCP, Edge AI, Developed AI Models for Mobile Applications.
+
+---
+
+## Main Competencies
+
+### **Computer Vision & Image Processing**
+- Object Detection, Object Tracking, OCR, Image Restoration & Enhancement, Medical Imaging
+
+### **Speech & NLP**
+- STT, Natural Language Processing, Large Language Models (LLMs), Vision-Language Models, Generative AI
+
+### **AI Model Development & Optimization**
+- Model Quantization, Real-time AI Systems, DeepFake Detection, Re-Identification
+
+### **End-to-End AI Solutions**
+- Building Scalable AI Pipelines, Deployment Pipelines, GCP & Cloud AI Deployment
+
 
 ## Work Experience
 
+### **AI Developer**
+**[Museblossome](https://info.museblossom.com/)** | **Nov 2024 - Present**
+
+- **Real-time Voice Phishing Detection**  
+  - Developed a real-time STT + KoBERT pipeline to detect voice phishing with 98% accuracy.  
+  - Optimized inference speed by processing audio in chunks for efficient streaming.  
+  - Deployed the model on Android using ONNX and TensorFlow Lite.  
+
+- **DeepVoice – AI vs. Human Voice Classification**  
+  - Created a model that identifies AI-generated voices in phone conversations.  
+  - Collected and processed a custom dataset of real and AI-generated voices.  
+  - Achieved 93% accuracy and deployed on mobile and local servers via FastAPI.  
+
+- **Multilingual Speech-to-Text (STT) Fine-Tuning**  
+  - Fine-tuned Whisper-small for Korean and Uzbek STT using a 560k dataset.  
+  - Integrated 70% AI Hub and 30% custom target data for Korean and open-source data for Uzbek.  
+  - Applied data augmentation and preprocessing techniques for higher accuracy.  
+
+- **AI-Generated vs. Real Music Classification**  
+  - Curated a dataset of 1M+ samples across 10 classes for music classification.  
+  - Developed a custom AI model to distinguish real vs. AI-generated music.  
+  - Applied quantization (ONNX, TensorFlow Lite) for high-performance mobile inference.  
+
+
 ### AI Research Engineer
 
-**[Aria Studios Co. Ltd](https://showaria.com/)** &#124; **Jun 2023 - Present**
+**[Aria Studios Co. Ltd](https://showaria.com/)** &#124; **Jun 2023 - Nov 2024**
 
 - **Real-time Live Portrait Optimization**:
     - Optimized the Live_Portrait model for real-time performance using webcam and monitor setups, achieving seamless and responsive operation.
