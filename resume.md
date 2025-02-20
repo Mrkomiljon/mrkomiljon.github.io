@@ -12,48 +12,34 @@ I am a dedicated **AI Developer** with **2+ years of industry** and **3+ years o
 
 I specialize in **model quantization (ONNX, TensorFlow Lite, TensorRT), optimization, and scalable AI solutions** for mobile and server deployments. My work focuses on **multilingual speech recognition, AI-based security systems, and real-time inference acceleration**, ensuring efficient and high-performance AI applications.
 
----
-
 ## Skills Summary
 
 ### **Programming Languages**
 - Python, C/C++, Java
-
 ### **Database Management**
 - MySQL, MongoDB, PostgreSQL, PySpark
-
 ### **ML & AI Frameworks**
 - PyTorch, TensorFlow, HuggingFace Transformers, Scikit-learn, PyTorch Lightning
-
 ### **Speech & NLP**
 - Whisper, KoBERT, Transformers, Speech-to-Text (STT), Large Language Models (LLMs)
-
 ### **MLOps & Optimization**
 - Docker, Kubernetes, MLFlow, FastAPI, TorchServe, TensorRT, ONNX, TensorFlow Lite
-
 ### **Development Tools**
 - Git/GitHub, CI/CD, Docker-compose
-
 ### **Cloud & Deployment**
 - AWS EC2, GCP, Edge AI, Developed AI Models for Mobile Applications.
-
----
 
 ## Main Competencies
 
 ### **Computer Vision & Image Processing**
 - Object Detection, Object Tracking, OCR, Image Restoration & Enhancement, Medical Imaging
-
 ### **Speech & NLP**
 - STT, Natural Language Processing, Large Language Models (LLMs), Vision-Language Models, Generative AI
-
 ### **AI Model Development & Optimization**
 - Model Quantization, Real-time AI Systems, DeepFake Detection, Re-Identification
-
 ### **End-to-End AI Solutions**
 - Building Scalable AI Pipelines, Deployment Pipelines, GCP & Cloud AI Deployment
-
-
+- 
 ## Work Experience
 
 ### **AI Developer**
