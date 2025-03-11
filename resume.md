@@ -38,9 +38,10 @@ I specialize in **model quantization (ONNX, TensorFlow Lite, TensorRT), optimiza
 **[Museblossome](https://info.museblossom.com/)** | **Nov 2024 - Present**
 
 - **Real-time Voice Phishing Detection**  
-  - Developed a real-time STT + KoBERT pipeline to detect voice phishing with 98% accuracy.  
+  - Achieved 98% accuracy by integrating Speech-to-Text (STT) and a fine-tuned KoBERT model for phishing detection.  
   - Optimized inference speed by processing audio in chunks for efficient streaming.  
-  - Deployed the model on Android using ONNX and TensorFlow Lite.  
+  - Deployed the model on Android using ONNX and TensorFlow Lite.
+  - [Project implementaion](https://github.com/Mrkomiljon/DEEPVOICE)
 
 - **DeepVoice – AI vs. Human Voice Classification**  
   - Created a model that identifies AI-generated voices in phone conversations.  
@@ -48,7 +49,7 @@ I specialize in **model quantization (ONNX, TensorFlow Lite, TensorRT), optimiza
   - Achieved 93% accuracy and deployed on mobile and local servers via FastAPI.  
 
 - **Multilingual Speech-to-Text (STT) Fine-Tuning**  
-  - Fine-tuned Whisper-small for Korean and Uzbek STT using a 560k dataset.  
+  - Fine-tuned Whisper-small for Korean and Uzbek STT using a 660k dataset.  
   - Integrated 70% AI Hub and 30% custom target data for Korean and open-source data for Uzbek.  
   - Applied data augmentation and preprocessing techniques for higher accuracy.  
 
