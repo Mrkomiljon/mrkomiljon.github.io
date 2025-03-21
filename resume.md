@@ -43,13 +43,13 @@ I specialize in **model quantization (ONNX, TensorFlow Lite, TensorRT), optimiza
   - Deployed the model on Android using ONNX and TensorFlow Lite.
   - [Project implementaion](https://github.com/Mrkomiljon/DEEPVOICE)
 
-- **DeepVoice – AI vs. Human Voice Classification**  
+- **DeepVoiceGuard – AI vs Human Voice Classification**  
   - Created a model that identifies AI-generated voices in phone conversations.  
   - Collected and processed ASVspoof2019 dataset of real and AI-generated voices.  
   - Achieved 95.8% accuracy and deployed on huggingface and local servers via FastAPI.
   - [Project implementaion](https://huggingface.co/Mrkomiljon/DeepVoiceGuard)
 
-- ** Fine-Tuning Whisper for Korean and Uzbek Speech Recognition**  
+- **Fine-Tuning Whisper for Korean and Uzbek Speech Recognition**  
   - Fine-tuned Whisper-medium model for Uzbek speech-to-text using a fully custom dataset collected and curated specifically for the Uzbek language.  
   - Achieved a Word Error Rate (WER) of 6.48% on the evaluation set, demonstrating high accuracy for real-world Uzbek speech scenarios.  
   - Built a Korean speech dataset combining voice phishing, phone conversations, and AI Hub data for domain-specific STT.
