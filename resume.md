@@ -37,7 +37,7 @@ I specialize in **model quantization (ONNX, TensorFlow Lite, TensorRT), optimiza
 ### **AI Developer**
 **[Museblossome](https://info.museblossom.com/)** | **Nov 2024 - Present**
 
-- **Real-time Voice Phishing Detection**  
+- **DeepVoice – Real-time Voice Phishing Detection**  
   - Achieved 98% accuracy by integrating Speech-to-Text (STT) and a fine-tuned KoBERT model for phishing detection.  
   - Optimized inference speed by processing audio in chunks for efficient streaming.  
   - Deployed the model on Android using ONNX and TensorFlow Lite.
@@ -45,17 +45,19 @@ I specialize in **model quantization (ONNX, TensorFlow Lite, TensorRT), optimiza
 
 - **DeepVoice – AI vs. Human Voice Classification**  
   - Created a model that identifies AI-generated voices in phone conversations.  
-  - Collected and processed a custom dataset of real and AI-generated voices.  
-  - Achieved 93% accuracy and deployed on mobile and local servers via FastAPI.  
+  - Collected and processed ASVspoof2019 dataset of real and AI-generated voices.  
+  - Achieved 95.8% accuracy and deployed on huggingface and local servers via FastAPI.
+  - [Project implementaion](https://huggingface.co/Mrkomiljon/DeepVoiceGuard)
 
-- **Multilingual Speech-to-Text (STT) Fine-Tuning**  
-  - Fine-tuned Whisper-small for Korean and Uzbek STT using a 660k dataset.  
-  - Integrated 70% AI Hub and 30% custom target data for Korean and open-source data for Uzbek.  
-  - Applied data augmentation and preprocessing techniques for higher accuracy.  
+- ** Fine-Tuning Whisper for Korean and Uzbek Speech Recognition**  
+  - Fine-tuned Whisper-medium model for Uzbek speech-to-text using a fully custom dataset collected and curated specifically for the Uzbek language.  
+  - Achieved a Word Error Rate (WER) of 6.48% on the evaluation set, demonstrating high accuracy for real-world Uzbek speech scenarios.  
+  - Built a Korean speech dataset combining voice phishing, phone conversations, and AI Hub data for domain-specific STT.
+  - Achieved a WER of 9.17% on Korean test data, emphasizing the model’s effectiveness in voice security contexts.  
 
-- **AI-Generated vs. Real Music Classification**  
+- **AI-Generated vs Real Music Classification**  
   - Curated a dataset of 1M+ samples across 10 classes for music classification.  
-  - Developed a custom AI model to distinguish real vs. AI-generated music.  
+  - Developed a custom AI model to distinguish real vs AI-generated music.  
   - Applied quantization (ONNX, TensorFlow Lite) for high-performance mobile inference.  
 
 
@@ -130,4 +132,4 @@ Please visit [https://github.com/Mrkomiljon](https://github.com/Mrkomiljon) to s
 - **Uzbek:** Native Proficiency
 - **Russian:** Limited Working Proficiency
 
-Last Updated: 2024-07-28
+Last Updated: 2025-03-21
