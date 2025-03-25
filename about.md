@@ -4,25 +4,44 @@ title: About
 permalink: /about/
 ---
 
-# About Me
+# 👋 About Me
 
-Welcome to my blog! My name is [Your Name], and I am passionate about [Your Interests or Profession].
+Hello! I'm **Komiljon**, an AI developer with a strong passion for creating intelligent systems that solve real-world problems.
 
-## Background
+With a focus on **deep learning**, **speech processing**, and **computer vision**, I design and develop applications that range from real-time voice classification to face tracking and animation.
 
-I have a background in [Your Background], and I enjoy sharing my knowledge and experiences through my writing. This blog is a space where I document my thoughts, ideas, and insights on various topics that interest me.
+---
 
-## Interests
+## 🎓 Background
 
--   **Technology:** I love exploring the latest advancements in technology, from software development to artificial intelligence.
--   **Travel:** I enjoy traveling and discovering new cultures and places.
--   **Books:** Reading is one of my favorite pastimes. I especially enjoy [Your Favorite Genre or Authors].
--   **Hobbies:** In my free time, I like to [Your Hobbies].
+I hold a Master's degree and have several years of professional experience working on AI-powered systems, particularly in:
 
-## Contact
+- **Voice classification & anti-spoofing**
+- **Text-to-speech (TTS) and speech-to-text (STT)**
+- **Face detection, segmentation, and animation**
+- **Model optimization for deployment (TFLite, ONNX, TensorRT)**
 
-Feel free to reach out to me via email at [your-email@example.com] if you have any questions, comments, or just want to connect.
+Currently, I’m working at **Museblossome** as an AI Developer, where I develop robust, efficient, and scalable AI solutions.
 
-Thank you for visiting my blog!
+---
 
-[Your Name]
+## 🔍 Interests
+
+- **💡 Artificial Intelligence** — building smart systems that understand voice, image, and text
+- **🎵 Audio & Speech** — voice cloning detection, speech classification, real-time STT
+- **📸 Computer Vision** — face segmentation, live portrait reenactment
+- **📚 Learning & Research** — always exploring the latest AI trends and open-source technologies
+- **✈️ Travel & Culture** — I love discovering new places and perspectives
+
+---
+
+## 📬 Contact
+
+Have questions, collaboration ideas, or just want to connect?
+
+📧 **Email:** [komiljon19950813@gmail.com]  
+🔗 **GitHub:** [https://github.com/Mrkomiljon](https://github.com/Mrkomiljon)
+
+Thanks for stopping by my blog and portfolio. I hope you find something inspiring here!
+
+**— Komiljon**
