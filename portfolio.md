@@ -122,6 +122,16 @@ button.active {
         </a>
         <p>This project focuses on recognizing Uzbek Sign Language (USL), the primary language for deaf and hard of hearing individuals in Uzbekistan. The system aims to facilitate communication by translating USL gestures into text, benefiting both the deaf community and those seeking to communicate with them. The dataset comprises images representing various USL gestures, and the model is trained to accurately classify these signs. <a href="https://github.com/Mrkomiljon/uzbek-sign-language" target="_blank">Learn more on GitHub</a>.</p>
     </div>
+    <div class="project" data-tags="audio classification">
+    <h3>VoiceVerifier-vv</h3>
+    <a href="https://github.com/Mrkomiljon/VoiceVerifier-vv" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Mrkomiljon/VoiceVerifier-vv" alt="VoiceVerifier-vv GitHub Preview">
+    </a>
+    <p>
+        VoiceVerifier-vv is a FastAPI-based speaker classification system that removes silence from audio files, extracts speaker embeddings using SpeechBrain's ECAPA-TDNN model, and performs classification using cosine similarity and a Random Forest classifier.  
+        <a href="https://github.com/Mrkomiljon/VoiceVerifier-vv" target="_blank">Learn more on GitHub</a>.
+    </p>
+    </div>
     <div class="project" data-tags="face">
         <h3>Gaze Emotion Recognition</h3>
         <a href="https://github.com/Mrkomiljon/Gaze_emotion" target="_blank">
