@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-[GitHub 🐱‍💻](https://github.com/Mrkomiljon) &#124;  [LinkedIn 🔗](https://www.linkedin.com/in/komiljon-mukhammadiev/) [Medium 📝](https://medium.com/@uzbrainai)
+[GitHub 🐱‍💻](https://github.com/Mrkomiljon) &#124;  [LinkedIn 🔗](https://www.linkedin.com/in/komiljon-mukhammadiev/) &#124; [Medium 📝](https://medium.com/@uzbrainai)
 
 ## About Me
 
