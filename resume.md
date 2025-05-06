@@ -8,7 +8,7 @@ permalink: /resume/
 
 ## About Me
 
-I am a dedicated **AI Developer** with **2+ years of industry** and **3+ years of academic experience** in machine learning, deep learning, NLP, and computer vision. My expertise includes **speech-to-text (STT), large language models (LLMs), DeepFake detection, and AI-generated content classification**. I have successfully built and deployed **real-time AI models** for **voice authentication, phishing detection, and AI-driven audio classification**.
+I am a dedicated **AI Developer** with **2+ years of industry** and **3+ years of academic experience** in machine learning, deep learning, NLP, and computer vision. My expertise includes **speech-to-text (STT), large language models (LLMs), DeepFake detection, and AI-generated content classification**. I have successfully built and deployed **real-time AI models** for **voice authentication, phishing detection, audio watermarking, and AI-driven audio classification**.
 
 I specialize in **model quantization (ONNX, TensorFlow Lite, TensorRT), optimization, and scalable AI solutions** for mobile and server deployments. My work focuses on **multilingual speech recognition, AI-based security systems, and real-time inference acceleration**, ensuring efficient and high-performance AI applications.
 
@@ -58,7 +58,13 @@ I specialize in **model quantization (ONNX, TensorFlow Lite, TensorRT), optimiza
 - **AI-Generated vs Real Music Classification**  
   - Curated a dataset of 1M+ samples across 10 classes for music classification.  
   - Developed a custom AI model to distinguish real vs AI-generated music.  
-  - Applied quantization (ONNX, TensorFlow Lite) for high-performance mobile inference.  
+  - Applied quantization (ONNX, TensorFlow Lite) for high-performance mobile inference.
+    
+- **[AudioDefence](https://audiodefence.com/) – Audio Watermarking & Spectrogram Classification**
+  - Built a system to embed 16-character Morse code serials into audio and detect them using deep learning.
+  - Created a dataset of 72,000+ spectrogram images across 36 classes (STFT & Mel).
+  - Trained EfficientNet and ResNet50 models with high classification accuracy.
+  - Developed LUFS-adaptive thresholding and STFT-based decoders for reliable watermark extraction.
 
 
 ### AI Research Engineer
