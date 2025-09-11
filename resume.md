@@ -55,7 +55,8 @@ I specialize in **model quantization and optimization (ONNX, TensorFlow Lite, Te
 
 - **Infra & MLOps**
   - Implemented automated CI/CD with GitHub Actions, model versioning with MLflow, and **A/B evaluation + Canary releases**.  
-  - Delivered edge/mobile deployment with TensorRT, ONNX Runtime, TFLite; cloud deployment on GCP and Azure.  
+  - Delivered edge/mobile deployment with TensorRT, ONNX Runtime, TFLite; cloud deployment on GCP and Azure.
+    
 ---
   
 ## Work Experience
@@ -165,6 +166,7 @@ Please visit [https://github.com/Mrkomiljon](https://github.com/Mrkomiljon) to s
 - **Russian:** Limited Working Proficiency
 
 Last Updated: 2025-09-11
+
 
 
 
