@@ -34,7 +34,7 @@ I specialize in **model quantization and optimization (ONNX, TensorFlow Lite, Te
 - **AI Model Development & Optimization:** Model Quantization, Real-time Inference Acceleration, Edge/Mobile AI Optimization  
 - **End-to-End AI Solutions:** Scalable AI Pipelines, Multi-Agent Orchestration (LangChain/LangGraph), Cloud AI Deployment  
 ---
-**Recent Achievements** 
+### **Recent Achievements** 
 
 - **Retrieval-Augmented Generation (RAG)**
   - Developed multilingual (UZ/RU/EN) RAG pipelines with indexing, retrieval, and synthesis.  
@@ -164,5 +164,6 @@ Please visit [https://github.com/Mrkomiljon](https://github.com/Mrkomiljon) to s
 - **Russian:** Limited Working Proficiency
 
 Last Updated: 2025-09-11
+
 
 
