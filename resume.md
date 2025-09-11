@@ -33,23 +33,20 @@ I specialize in **model quantization and optimization (ONNX, TensorFlow Lite, Te
 - **AI Security:** DeepFake Detection (voice & video), Voice Spoofing Detection, Audio Watermarking  
 - **AI Model Development & Optimization:** Model Quantization, Real-time Inference Acceleration, Edge/Mobile AI Optimization  
 - **End-to-End AI Solutions:** Scalable AI Pipelines, Multi-Agent Orchestration (LangChain/LangGraph), Cloud AI Deployment  
-
-## Recent Achievements 
+---
+**Recent Achievements** 
 
 - **Retrieval-Augmented Generation (RAG)**
-  - Developed RAG pipelines for domain-specific corpora (UZ/RU/EN), covering indexing → retrieval → synthesis.  
-  - Integrated **Vector DBs** (Pinecone / Qdrant / FAISS) with re-ranking using Cross-encoder / BGE.  
-  - Applied **LangChain & LangGraph** with guardrails for prompt validation and source attribution.  
+  - Developed multilingual (UZ/RU/EN) RAG pipelines with indexing, retrieval, and synthesis.  
+  - Integrated Pinecone/Qdrant/FAISS with BGE re-ranking, using LangChain & LangGraph with guardrails.  
 
-- **Text Detection (AI-generated vs Human-written)**
-  - Built a hybrid pipeline combining stylometric features and transformer models (RoBERTa/BERT).  
-  - Implemented monitoring with metrics such as accuracy, F1, ROC-AUC, and drift detection.  
-  - Designed robust evaluation frameworks against paraphrase attacks and prompt-injection scenarios.  
+- **Text Detection (AI vs Human)**
+  - Built a hybrid model combining stylometric features and transformers (RoBERTa/BERT).  
+  - Set up monitoring with accuracy, F1, ROC-AUC, and drift detection metrics.  
 
 - **AI Agent Orchestration**
-  - Designed multi-agent architecture: **Planner → Router → Tool Agents (STT/TTS/RAG/DB/HTTP) → Critic**.  
-  - Built stateful orchestration with **LangGraph**, including retry strategies and circuit breakers.  
-  - Deployed production-ready pipelines with **FastAPI gateway**, Celery/Redis queues, and observability with OpenTelemetry.  
+  - Designed multi-agent workflows (Planner → Router → Tool Agents → Critic) for complex tasks.  
+  - Deployed production-ready pipelines with LangGraph, FastAPI, Celery/Redis, and OpenTelemetry.  
 
 - **Voice Security / Speech**
   - Fine-tuned Whisper STT for low-latency, real-time chunked inference; optimized for on-device ONNX/TFLite.  
@@ -58,7 +55,7 @@ I specialize in **model quantization and optimization (ONNX, TensorFlow Lite, Te
 - **Infra & MLOps**
   - Implemented automated CI/CD with GitHub Actions, model versioning with MLflow, and **A/B evaluation + Canary releases**.  
   - Delivered edge/mobile deployment with TensorRT, ONNX Runtime, TFLite; cloud deployment on GCP and Azure.  
-
+---
   
 ## Work Experience
 
@@ -167,4 +164,5 @@ Please visit [https://github.com/Mrkomiljon](https://github.com/Mrkomiljon) to s
 - **Russian:** Limited Working Proficiency
 
 Last Updated: 2025-09-11
+
 
