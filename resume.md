@@ -8,29 +8,57 @@ permalink: /resume/
 
 ## About Me
 
-I am a dedicated **AI Developer** with **2+ years of industry** and **3+ years of academic experience** in machine learning, deep learning, NLP, and computer vision. My expertise includes **speech-to-text (STT), large language models (LLMs), DeepFake detection, and AI-generated content classification**. I have successfully built and deployed **real-time AI models** for **voice authentication, phishing detection, audio watermarking, and AI-driven audio classification**.
+I am a dedicated **AI Developer** with **3+ years of industry** and **3+ years of academic experience** in machine learning, deep learning, NLP, and computer vision. My expertise spans **speech-to-text (STT), large language models (LLMs), Retrieval-Augmented Generation (RAG), DeepFake detection, AI-generated content classification, and multi-agent orchestration**.  
 
-I specialize in **model quantization (ONNX, TensorFlow Lite, TensorRT), optimization, and scalable AI solutions** for mobile and server deployments. My work focuses on **multilingual speech recognition, AI-based security systems, and real-time inference acceleration**, ensuring efficient and high-performance AI applications.
+I have successfully built and deployed **real-time AI systems** for **voice authentication, phishing detection, audio watermarking, and AI-driven audio/text detection**, as well as **RAG-based knowledge retrieval pipelines** and **multi-agent platforms** for domain-specific use cases.  
+
+I specialize in **model quantization and optimization (ONNX, TensorFlow Lite, TensorRT)**, ensuring scalable AI solutions for both mobile and server deployments. My current focus includes **multilingual speech recognition, AI-based security systems, orchestration of intelligent agents, and real-time inference acceleration**, delivering efficient and production-ready AI applications.
 
 ---
-
-**Skills Summary**
+**Core Skills**
 
 - **Programming Languages:** Python, C/C++, Java  
 - **Database Management:** MySQL, PostgreSQL, PySpark  
 - **ML & AI Frameworks:** PyTorch, TensorFlow, HuggingFace Transformers, Scikit-learn, PyTorch Lightning  
-- **Speech & NLP:** Whisper, KoBERT, Transformers, Speech-to-Text (STT), Large Language Models (LLMs)  
-- **MLOps & Optimization:** Docker, Kubernetes, MLFlow, FastAPI, TorchServe, TensorRT, ONNX, TensorFlow Lite  
+- **Speech & NLP:** Whisper, KoBERT, Speech-to-Text (STT), Large Language Models (LLMs), Retrieval-Augmented Generation (RAG)  
+- **MLOps & Optimization:** Docker, Kubernetes, MLflow, FastAPI, TorchServe, TensorRT, ONNX, TensorFlow Lite  
 - **Development Tools:** Git/GitHub, CI/CD, Docker-compose  
-- **Cloud & Deployment:** AWS EC2, GCP, Edge AI, Developed AI Models for Mobile Applications
+- **Cloud & Deployment:** AWS, GCP, Azure, Edge AI & Mobile Deployment (ONNX/TFLite/TensorRT)  
 
 ---
 **Main Competencies**
 
-- **Computer Vision & Image Processing:** Object Detection, Object Tracking, OCR, Image Restoration & Enhancement, Medical Imaging  
-- **Speech & NLP:** STT, Natural Language Processing, Large Language Models (LLMs), Vision-Language Models, Generative AI  
-- **AI Model Development & Optimization:** Model Quantization, Real-time AI Systems, DeepFake Detection, Clustering, Re-Identification  
-- **End-to-End AI Solutions:** Building Scalable AI Pipelines, Deployment Pipelines, GCP & Cloud AI Model Deployment 
+- **Computer Vision & Image Processing:** Object Detection & Tracking, OCR, Image Enhancement, Medical Imaging  
+- **Speech & NLP:** Multilingual STT, AI vs Human Text Detection, Large Language Models (LLMs), Vision-Language Models, Generative AI  
+- **AI Security:** DeepFake Detection (voice & video), Voice Spoofing Detection, Audio Watermarking  
+- **AI Model Development & Optimization:** Model Quantization, Real-time Inference Acceleration, Edge/Mobile AI Optimization  
+- **End-to-End AI Solutions:** Scalable AI Pipelines, Multi-Agent Orchestration (LangChain/LangGraph), Cloud AI Deployment  
+
+## Recent Achievements 
+
+- **Retrieval-Augmented Generation (RAG)**
+  - Developed RAG pipelines for domain-specific corpora (UZ/RU/EN), covering indexing → retrieval → synthesis.  
+  - Integrated **Vector DBs** (Pinecone / Qdrant / FAISS) with re-ranking using Cross-encoder / BGE.  
+  - Applied **LangChain & LangGraph** with guardrails for prompt validation and source attribution.  
+
+- **Text Detection (AI-generated vs Human-written)**
+  - Built a hybrid pipeline combining stylometric features and transformer models (RoBERTa/BERT).  
+  - Implemented monitoring with metrics such as accuracy, F1, ROC-AUC, and drift detection.  
+  - Designed robust evaluation frameworks against paraphrase attacks and prompt-injection scenarios.  
+
+- **AI Agent Orchestration**
+  - Designed multi-agent architecture: **Planner → Router → Tool Agents (STT/TTS/RAG/DB/HTTP) → Critic**.  
+  - Built stateful orchestration with **LangGraph**, including retry strategies and circuit breakers.  
+  - Deployed production-ready pipelines with **FastAPI gateway**, Celery/Redis queues, and observability with OpenTelemetry.  
+
+- **Voice Security / Speech**
+  - Fine-tuned Whisper STT for low-latency, real-time chunked inference; optimized for on-device ONNX/TFLite.  
+  - Implemented pipelines and APIs for AI-generated vs Human Voice detection (**95%+ accuracy on benchmark dataset**).  
+
+- **Infra & MLOps**
+  - Implemented automated CI/CD with GitHub Actions, model versioning with MLflow, and **A/B evaluation + Canary releases**.  
+  - Delivered edge/mobile deployment with TensorRT, ONNX Runtime, TFLite; cloud deployment on GCP and Azure.  
+
   
 ## Work Experience
 
@@ -138,4 +166,5 @@ Please visit [https://github.com/Mrkomiljon](https://github.com/Mrkomiljon) to s
 - **Uzbek:** Native Proficiency
 - **Russian:** Limited Working Proficiency
 
-Last Updated: 2025-03-21
+Last Updated: 2025-09-11
+
