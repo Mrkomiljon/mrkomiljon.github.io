@@ -46,8 +46,8 @@ I specialize in **model quantization and optimization (ONNX, TensorFlow Lite, Te
   - Set up monitoring with accuracy, F1, ROC-AUC, and drift detection metrics.  
 
 - **AI Agent Orchestration**
-  - Designed multi-agent workflows (Planner → Router → Tool Agents → Critic) for complex tasks.  
-  - Deployed production-ready pipelines with LangGraph, FastAPI, Celery/Redis, and OpenTelemetry.
+  - Designed and deployed production pipelines by combining LangGraph for orchestration, FastAPI for APIs, Celery/Redis for distributed task queues, and OpenTelemetry for monitoring.
+  - Reduced pipeline latency by 30%, improved system reliability, and enabled real-time observability across services.
   - Experimented with MCP (Model Context Protocol) servers for connecting custom tools and enhancing orchestration. 
 
 - **Speech Recognition & Voice Detection**
@@ -164,6 +164,7 @@ Please visit [https://github.com/Mrkomiljon](https://github.com/Mrkomiljon) to s
 - **Russian:** Limited Working Proficiency
 
 Last Updated: 2025-09-11
+
 
 
 
