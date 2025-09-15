@@ -40,21 +40,17 @@ I specialize in **model quantization and optimization (ONNX, TensorFlow Lite, Te
 - **Retrieval-Augmented Generation (RAG)**
   - Developed multilingual (UZ/RU/EN/KOR) RAG pipelines with indexing, retrieval, and synthesis.  
   - Integrated Pinecone/Qdrant/FAISS with BGE re-ranking, using LangChain & LangGraph with guardrails.  
-
 - **Text Detection (AI vs Human)**
   - Built a hybrid model combining stylometric features and transformers (RoBERTa/BERT).  
   - Set up monitoring with accuracy, F1, ROC-AUC, and drift detection metrics.  
-
 - **AI Agent Orchestration**
   - Designed and deployed production pipelines by combining LangGraph for orchestration, FastAPI for APIs, Celery/Redis for distributed task queues, and OpenTelemetry for monitoring.
   - Reduced pipeline latency by 30%, improved system reliability, and enabled real-time observability across services.
   - Experimented with MCP (Model Context Protocol) servers for connecting custom tools and enhancing orchestration. 
-
 - **Speech Recognition & Voice Detection**
   - Fine-tuned Whisper STT for real-time, low-latency chunked inference; optimized models for on-device deployment with ONNX/TFLite.
   - Built pipelines and APIs for AI-generated vs human voice detection, achieving 95%+ accuracy on benchmark datasets.
 
-Speech Recognition & Voice Detection
 ---
   
 ## Work Experience
@@ -164,6 +160,7 @@ Please visit [https://github.com/Mrkomiljon](https://github.com/Mrkomiljon) to s
 - **Russian:** Limited Working Proficiency
 
 Last Updated: 2025-09-11
+
 
 
 
