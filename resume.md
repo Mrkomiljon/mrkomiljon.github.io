@@ -38,7 +38,7 @@ I specialize in **model quantization and optimization (ONNX, TensorFlow Lite, Te
 **Recent Achievements** 
 
 - **Retrieval-Augmented Generation (RAG)**
-  - Developed multilingual (UZ/RU/EN) RAG pipelines with indexing, retrieval, and synthesis.  
+  - Developed multilingual (UZ/RU/EN/KOR) RAG pipelines with indexing, retrieval, and synthesis.  
   - Integrated Pinecone/Qdrant/FAISS with BGE re-ranking, using LangChain & LangGraph with guardrails.  
 
 - **Text Detection (AI vs Human)**
@@ -47,16 +47,14 @@ I specialize in **model quantization and optimization (ONNX, TensorFlow Lite, Te
 
 - **AI Agent Orchestration**
   - Designed multi-agent workflows (Planner → Router → Tool Agents → Critic) for complex tasks.  
-  - Deployed production-ready pipelines with LangGraph, FastAPI, Celery/Redis, and OpenTelemetry.  
+  - Deployed production-ready pipelines with LangGraph, FastAPI, Celery/Redis, and OpenTelemetry.
+  - Experimented with MCP (Model Context Protocol) servers for connecting custom tools and enhancing orchestration. 
 
-- **Voice Security / Speech**
-  - Fine-tuned Whisper STT for low-latency, real-time chunked inference; optimized for on-device ONNX/TFLite.  
-  - Implemented pipelines and APIs for AI-generated vs Human Voice detection (**95%+ accuracy on benchmark dataset**).  
+- **Speech Recognition & Voice Detection**
+  - Fine-tuned Whisper STT for real-time, low-latency chunked inference; optimized models for on-device deployment with ONNX/TFLite.
+  - Built pipelines and APIs for AI-generated vs human voice detection, achieving 95%+ accuracy on benchmark datasets.
 
-- **Infra & MLOps**
-  - Implemented automated CI/CD with GitHub Actions, model versioning with MLflow, and **A/B evaluation + Canary releases**.  
-  - Delivered edge/mobile deployment with TensorRT, ONNX Runtime, TFLite; cloud deployment on GCP and Azure.
-    
+Speech Recognition & Voice Detection
 ---
   
 ## Work Experience
@@ -166,6 +164,7 @@ Please visit [https://github.com/Mrkomiljon](https://github.com/Mrkomiljon) to s
 - **Russian:** Limited Working Proficiency
 
 Last Updated: 2025-09-11
+
 
 
 
