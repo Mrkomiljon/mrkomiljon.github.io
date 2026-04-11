@@ -4,44 +4,37 @@ title: About
 permalink: /about/
 ---
 
-# 👋 About Me
+# About
 
-Hello! I'm **Komiljon**, an AI developer with a strong passion for creating intelligent systems that solve real-world problems.
-
-With a focus on **deep learning**, **speech processing**, and **computer vision**, I design and develop applications that range from real-time voice classification to face tracking and animation.
+I help product teams and startups deliver AI solutions that move from prototype to production. My focus is on speech security, real-time computer vision, and model optimization for deployment on web, server, and edge systems.
 
 ---
 
-## 🎓 Background
+## What I do
 
-I hold a Master's degree and have several years of professional experience working on AI-powered systems, particularly in:
-
-- **Voice classification & anti-spoofing**
-- **Text-to-speech (TTS) and speech-to-text (STT)**
-- **Face detection, segmentation, and animation**
-- **Model optimization for deployment (TFLite, ONNX, TensorRT)**
-
-Currently, I’m working at **Museblossome** as an AI Developer, where I develop robust, efficient, and scalable AI solutions.
+- Build speech-based security systems for voice phishing detection, anti-spoofing, and speaker verification.
+- Create computer vision pipelines for face tracking, segmentation, and real-time video animation.
+- Optimize deep learning models with ONNX, TensorFlow Lite, and TensorRT for fast inference.
+- Deploy APIs using FastAPI, Docker, and cloud services to deliver reliable ML products.
 
 ---
 
-## 🔍 Interests
+## Professional strengths
 
-- **💡 Artificial Intelligence** — building smart systems that understand voice, image, and text
-- **🎵 Audio & Speech** — voice cloning detection, speech classification, real-time STT
-- **📸 Computer Vision** — face segmentation, live portrait reenactment
-- **📚 Learning & Research** — always exploring the latest AI trends and open-source technologies
-- **✈️ Travel & Culture** — I love discovering new places and perspectives
+- Product-focused AI engineering
+- End-to-end deployment pipelines
+- Data preparation and evaluation
+- Scalable inference and model optimization
+- Cross-functional communication and technical leadership
 
 ---
 
-## 📬 Contact
+## Contact
 
-Have questions, collaboration ideas, or just want to connect?
+I am open to remote, hybrid, and contract roles in AI development and ML engineering.
 
-📧 **Email:** [komiljon19950813@gmail.com]  
-🔗 **GitHub:** [https://github.com/Mrkomiljon](https://github.com/Mrkomiljon)
+- **Email:** [komiljon19950813@gmail.com](mailto:komiljon19950813@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/komiljon-mukhammadiev/](https://www.linkedin.com/in/komiljon-mukhammadiev/)
+- **GitHub:** [https://github.com/Mrkomiljon](https://github.com/Mrkomiljon)
 
-Thanks for stopping by my blog and portfolio. I hope you find something inspiring here!
-
-**— Komiljon**
+If you want to discuss a project, collaboration, or a full-time role, feel free to reach out.

@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Komiljon's Blog
+title: Mukhammadiev Komiljon | AI Software Engineer
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Exploring Life Through the Lens of a Computer Scientist: AI, Tech, and Beyond.
+description: >-
+  AI engineer focused on production-ready speech, vision, and agent orchestration systems.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.mrkomiljon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -37,6 +37,7 @@ header_pages:
   - blog.md
   - portfolio.md
   - resume.md
+  - contact.md
 
 google_analytics: 
 show_excerpts: true
