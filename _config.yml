@@ -36,7 +36,7 @@ plugins:
 header_pages:
   - blog.md
   - portfolio.md
-  - resume.md
+  - resume/index.html
   - contact.md
 
 google_analytics: 
