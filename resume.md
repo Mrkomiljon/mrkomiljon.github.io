@@ -79,10 +79,6 @@ permalink: /resume-old/
 - AI vs human voice detection service using RawNet2 and FastAPI.
 - Achieved 95%+ accuracy on benchmark datasets.
 
-### <strong>Live Portrait Monitor</strong>
-- Real-time face reenactment system with webcam-based portrait animation.
-- Optimized for low-latency deployment and responsive performance.
-
 ### <strong>VoiceGuard & VoiceVerifier</strong>
 - Audio anti-spoofing and speaker verification systems using SpeechBrain and Wav2Vec2.
 - Built secure APIs and inference pipelines for real-time voice classification.

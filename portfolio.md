@@ -11,16 +11,6 @@ Below are a few representative AI systems and research projects that demonstrate
 <div class="project-grid">
 
 <div class="project-card">
-  <h3>Live Portrait Monitor</h3>
-  <p>Real-time face reenactment and portrait animation using webcam input. Optimized for low-latency performance and deployed as a responsive demo application.</p>
-  <ul>
-    <li>Face tracking + animated portrait rendering</li>
-    <li>Performance-focused model optimization</li>
-    <li><a href="https://github.com/Mrkomiljon/Live_Portrait_Monitor" target="_blank">GitHub</a></li>
-  </ul>
-</div>
-
-<div class="project-card">
   <h3>DeepVoiceGuard</h3>
   <p>AI-powered audio spoofing detection for speaker verification systems. Combines RawNet2 audio modeling with FastAPI deployment for real-time inference.</p>
   <ul>
