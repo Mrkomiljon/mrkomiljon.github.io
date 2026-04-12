@@ -78,10 +78,12 @@ permalink: /resume-old/
 ### <strong>DeepVoiceGuard</strong>
 - AI vs human voice detection service using RawNet2 and FastAPI.
 - Achieved 95%+ accuracy on benchmark datasets.
+- [GitHub](https://github.com/Mrkomiljon/DeepVoiceGuard)
 
 ### <strong>VoiceGuard & VoiceVerifier</strong>
 - Audio anti-spoofing and speaker verification systems using SpeechBrain and Wav2Vec2.
 - Built secure APIs and inference pipelines for real-time voice classification.
+- [GitHub](https://github.com/Mrkomiljon/voiceguard)
 
 </div>
 
